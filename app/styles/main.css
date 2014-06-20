@@ -11,7 +11,8 @@ header {
   word-spacing: 5px;
   font-size: 50px;
   text-align: center;
-  margin: 0 auto; }
+  margin: 0 auto;
+  border-bottom: 1px solid #aa6767; }
 
 .final {
   width: 810px;
@@ -64,4 +65,4 @@ footer {
   margin: 0 auto;
   text-align: center;
   padding: 20px;
-  border-top: 1px solid #948585; }
+  border-top: 1px solid #aa6767; }

@@ -56,7 +56,7 @@ text-overflow: ellipsis;
 
 //prices of api
 .price{
-float: right;
+text-align: right;
 font-size: 15px;
 margin-top: 5px;
 margin-right: 5px;
@@ -67,8 +67,7 @@ margin-right: 5px;
 float: right;
 font-size: 15px;
 color: #0DBE23;
-margin-top: 5px;
-margin-right: 5px;
+margin: 5px 5px 0 5px;
 }
 
 

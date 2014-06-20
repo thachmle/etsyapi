@@ -1,0 +1,68 @@
+body {
+  background-color: #F5F5F1; }
+
+header {
+  width: 100%;
+  height: auto;
+  margin: 0 auto; }
+
+.headerContainer {
+  width: 1000px;
+  word-spacing: 5px;
+  font-size: 50px;
+  text-align: center;
+  margin: 0 auto; }
+
+.final {
+  width: 810px;
+  height: auto;
+  margin: 0 auto; }
+
+.etsy {
+  float: left;
+  width: 260px;
+  background-color: white;
+  height: 260px;
+  margin-bottom: 10px;
+  margin-left: 10px; }
+
+.images {
+  margin-left: 4px;
+  margin-right: 4px;
+  margin-top: 4px; }
+
+.title {
+  margin-left: 5px;
+  margin-right: 5px;
+  height: 15px;
+  font-size: 13px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis; }
+
+.price {
+  float: right;
+  font-size: 15px;
+  margin-top: 5px;
+  margin-right: 5px; }
+
+.moneyCode {
+  float: right;
+  font-size: 15px;
+  color: #0DBE23;
+  margin-top: 5px;
+  margin-right: 5px; }
+
+footer {
+  width: 100%;
+  height: auto;
+  clear: both; }
+
+.footerContent {
+  width: 1000px;
+  word-spacing: 5px;
+  font-size: 50px;
+  margin: 0 auto;
+  text-align: center;
+  padding: 20px;
+  border-top: 1px solid #948585; }
